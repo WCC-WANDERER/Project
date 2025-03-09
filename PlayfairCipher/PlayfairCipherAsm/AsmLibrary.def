@@ -1,0 +1,6 @@
+LIBRARY AsmLibrary
+EXPORTS 
+
+encodeAsm
+decodeAsm
+;

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PlayfairCipherUI": {
+      "commandName": "Executable",
+      "executablePath": "$(TargetDir)PlayfairCipherUI.exe"
+    }
+  }
+}
