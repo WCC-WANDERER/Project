@@ -1,0 +1,9 @@
+easy swordsman Useful Chainmail 5 10
+medium swordsman Excellent Chainmail 10 20
+hard swordsman Legendary Chainmail 20 40
+easy archer Useful LeatherArmour 4 8
+medium archer Excellent LeatherArmour 8 16
+hard archer Legendary LeatherArmour 16 32
+easy mage Useful Robe 3 6
+medium mage Excellent Robe 6 12
+hard mage Legendary Robe 12 24

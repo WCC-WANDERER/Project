@@ -1,0 +1,9 @@
+easy swordsman Ice Slash 20 0 0
+medium swordsman Defence Buff 0 50 0
+hard swordsman Hp Recovery 0 0 50
+easy archer Magic Arrow 30 0 0
+medium archer Attack Buff 40 0 0
+hard archer Hp Recovery 0 0 40
+easy mage Fire Ball 40 0 0
+medium mage Attack Buff 50 0 0
+hard mage Hp Recovery 0 0 30

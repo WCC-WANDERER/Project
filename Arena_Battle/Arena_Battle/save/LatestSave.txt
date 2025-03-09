@@ -1,0 +1,13 @@
+Stage 1
+Swd 40 55 160
+Skill swordsman Ice Slash 20 0 0
+Weapon swordsman Useful Sword 10
+Armour swordsman Useful Chainmail 5 10
+Arc 55 44 128
+Skill archer Magic Arrow 30 0 0
+Weapon archer Useful Bow 15
+Armour archer Useful LeatherArmour 4 8
+Mag 70 33 106
+Skill mage Fire Ball 40 0 0
+Weapon mage Useful Wand 20
+Armour mage Useful Robe 3 6

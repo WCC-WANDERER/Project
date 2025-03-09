@@ -1,0 +1,9 @@
+easy swordsman Useful Sword 10
+medium swordsman Excellent Sword 20
+hard swordsman Legendary Sword 40
+easy archer Useful Bow 15
+medium archer Excellent Bow 30
+hard archer Legendary Bow 60
+easy mage Useful Wand 20
+medium mage Excellent Wand 40
+hard mage Legendary Wand 80
