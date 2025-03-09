@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Welcome Page</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <style>
+        button { 
+            color: white;              
+            padding: 15px 25px;        
+            font-size: 16px;           
+            border: none;             
+            cursor: pointer;
+        }  
+        .btn-green {
+            background-color: green;
+        }
+        .btn-gray {
+            background-color: gray;
+        }
+        .btn-yellow {
+            background-color: yellow;
+            color: black;
+        }
+        .btn-blue {
+            background-color: blue;
+        }
+        button:hover {
+            opacity: 0.8;
+        }
+        </style>
+    </head>
+    <body>
+        <h1>Arabic-Roman Converter</h1><br/>
+        
+        <form action="Conversion" method="GET">
+            <p>Input Number: <input type=text size=20 name=inputnumber></p><br/>
+            <button class="btn-gray" type="submit">Convert</button>
+        </form> <br/>
+        <hr>
+        <br/>
+        <form action="History" method="GET">
+            <button class="btn-green" type="submit">Display Conversion History</button>
+        </form><br/>
+        <hr>
+        <br/>
+        <form action="CookieAccess" method="GET">
+            <button class="btn-yellow" type="submit">Display Cookie Access</button>
+        </form><br/>
+        <hr>
+        <br/>
+        <form action="Database" method="GET">
+            <button class="btn-blue" type="submit">Display Database Content</button>
+        </form><br/>
+    </body>
+</html>
